@@ -23,11 +23,6 @@ This package distributes the technical crash course across the existing workshop
 5. `05_session5_complete_workflow.ipynb`
    - complete load–inspect–visualize–split–baseline–train–evaluate workflow
 
-
-- Spend 5–10 minutes on the embedded technical skill at the start of each session.
-- Reuse the same code patterns and variable names throughout the workshop.
-- Emphasize interpretation rather than Python syntax.
-
 ## Requirements
 
 ```bash
