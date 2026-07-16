@@ -16,13 +16,6 @@ This package distributes the technical crash course across the existing workshop
    - minimal scikit-learn regression workflow
    - mean baseline, linear regression, MAE, R²
 
-4. `04_session4_classification_sklearn.ipynb`
-   - minimal scikit-learn classification workflow
-   - majority baseline, logistic regression, confusion matrix, classification metrics
-
-5. `05_session5_complete_workflow.ipynb`
-   - complete load–inspect–visualize–split–baseline–train–evaluate workflow
-
 ## Requirements
 
 ```bash
